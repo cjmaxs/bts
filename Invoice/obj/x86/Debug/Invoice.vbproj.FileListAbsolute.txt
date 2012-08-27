@@ -1,0 +1,107 @@
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\bin\Debug\Invoice.exe.manifest
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\bin\Debug\Invoice.application
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\bin\Debug\Invoice.exe
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\bin\Debug\Invoice.xml
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.Form1.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.Form2.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmAddInvoice.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmBackup.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmEditInvoice.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmGoogleMaps.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmLateFees.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmPayInvoice.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmPayments.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmQuickInvoice.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmRestore.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmStreetLookup.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmAddCustomer.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmAddModifyCustomer.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmCustomer.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.FrmLogin.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmMonthlyStatements.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmMainMenu.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.Resources.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.Pay.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.PayInvoice.resources
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.exe.manifest
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.application
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.exe
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.xml
+C:\Users\Charles\Downloads\Tax Liens\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.pdb
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.exe
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.xml
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.pdb
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\bin\Debug\Invoice.exe.manifest
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\bin\Debug\Invoice.application
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\bin\Debug\Invoice.exe
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\bin\Debug\Invoice.xml
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.Form1.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.Form2.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmAddInvoice.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmBackup.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmEditInvoice.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmGoogleMaps.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmLateFees.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmPayInvoice.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmPayments.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmQuickInvoice.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmRestore.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmStreetLookup.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmAddCustomer.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmAddModifyCustomer.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmCustomer.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.FrmLogin.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmMonthlyStatements.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.frmMainMenu.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.Resources.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.Pay.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.PayInvoice.resources
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.exe.manifest
+C:\Users\Charles\Downloads\Invoice\Invoice\Invoice\Invoice\obj\x86\Debug\Invoice.application
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\bin\Debug\Invoice.exe.config
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.exe
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.xml
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.pdb
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\bin\Debug\Invoice.exe.manifest
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\bin\Debug\Invoice.application
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\bin\Debug\Invoice.exe
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\bin\Debug\Invoice.pdb
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\bin\Debug\Invoice.xml
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.Form1.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.Form2.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmAddInvoice.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmBackup.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmEditInvoice.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmGoogleMaps.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmLateFees.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmPayInvoice.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmPayments.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmQuickInvoice.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmRestore.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmStreetLookup.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmAddCustomer.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmAddModifyCustomer.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmCustomer.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.FrmLogin.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmMonthlyStatements.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.frmMainMenu.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.Resources.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.Pay.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.PayInvoice.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.exe.manifest
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.application
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.editCustomer.resources
+C:\Users\Charles\Documents\Visual Studio 2010\Projects\Invoice\Invoice\obj\x86\Debug\Invoice.Invoice1.resources
